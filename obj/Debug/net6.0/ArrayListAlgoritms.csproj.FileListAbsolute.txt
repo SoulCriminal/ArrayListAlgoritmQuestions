@@ -1,0 +1,15 @@
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\bin\Debug\net6.0\ArrayListAlgoritms.exe
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\bin\Debug\net6.0\ArrayListAlgoritms.deps.json
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\bin\Debug\net6.0\ArrayListAlgoritms.runtimeconfig.json
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\bin\Debug\net6.0\ArrayListAlgoritms.dll
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\bin\Debug\net6.0\ref\ArrayListAlgoritms.dll
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\bin\Debug\net6.0\ArrayListAlgoritms.pdb
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.csproj.AssemblyReference.cache
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.AssemblyInfo.cs
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.dll
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ref\ArrayListAlgoritms.dll
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.pdb
+C:\Users\MGM\Desktop\VsCode\C#\ArrayListAlgoritms\obj\Debug\net6.0\ArrayListAlgoritms.genruntimeconfig.cache
